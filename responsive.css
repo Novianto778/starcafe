@@ -35,7 +35,11 @@
     .item-box {
         margin-right: 60px;
     }
-
+    
+    .line {
+        border: 1px solid rgba(255, 255, 255, 0.829);
+        margin-bottom: 20px;
+    }
 
 }
 
