@@ -1,0 +1,90 @@
+@media (max-width: 800px) {
+    .jumbotron {
+        padding: 140px 0 70px 0;
+        text-align: left;
+        padding-left: 30px;
+    }
+
+    .jumbotron h1 {
+        font-size: 32px;
+        margin-bottom: 5px;
+    }
+
+    .jumbotron p {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .fasilitas-item {
+        width: 25%;
+    }
+
+    .header-list {
+        display: none;
+    }
+
+    .header-logo {
+        margin-right: 0;
+        padding: 0 30px;
+    }
+
+    .flex-row {
+        flex-direction: column;
+    }
+
+    .item-box {
+        margin-right: 60px;
+    }
+
+
+}
+
+@media (max-width: 900px) {
+    .jumbotron h1 {
+        font-size: 36px;
+        margin-bottom: 5px;
+    }
+
+    .jumbotron p {
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+
+    .fasilitas-item {
+        width: 50%;
+    }
+
+    .items-list {
+        width: 25%;
+    }
+
+    .header-logo {
+        margin-right: 70px;
+    }
+
+    .header-list {
+        float: right;
+    }
+
+}
+
+@media (max-width: 1300px) {
+    .fasilitas {
+        width: 100%;
+    }
+
+    .fasilitas-item {
+        width: 50%;
+        display: inline-block;
+    }
+}
+
+@media (max-width: 1050px) {
+    .header-logo {
+        margin-right: 200px;
+    }
+
+    .fasilitas-item {
+        width: 50%;
+    }
+}
