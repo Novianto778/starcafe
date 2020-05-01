@@ -90,7 +90,7 @@ main {
 
 .box {
     border-radius: 0 0 10px 10px;
-    background: -moz-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(237, 237, 237, 1) 85%);
+    background-color: white;
     padding: 45px;
 }
 
